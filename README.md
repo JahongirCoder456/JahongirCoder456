@@ -1,9 +1,9 @@
-<h1 align="center">Hi there! 👋 I'm Ahrorjon Ibrohimjonov</h1>
+<h1 align="center">Hi there! 👋 I'm Jahongir Xaitbayev</h1>
 
 <p align="center">
-  🎓 Computer Science Student at <strong>Acharya University</strong> <br/>
-  💡 Passionate about turning ideas into real software tools <br/>
-  🌐 Building modern web apps with Python, Flask & Supabase
+  Startap founder<br/>
+  Growing person <br/>
+  Startup founder in uzbekistan.
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@
 
 ## 🚀 About Me
 
-My name is Ahrorjon Ibrohimjonov, and I’m a passionate developer from Uzbekistan 🇺🇿. I’m currently pursuing a degree in Computer Science at **Acharya University**.
+My name is Jahongir Xaitbayev, and I’m a passionate developer from Uzbekistan 🇺🇿. I’m currently pursuing a degree in Computer Science at **Acharya University**.
 
 I enjoy building real-world applications that solve problems in education, productivity, and everyday life. I'm highly interested in backend development and cloud storage systems, and I love using Python and Flask to bring ideas to life.
 
@@ -52,7 +52,7 @@ This GitHub profile contains the projects I’ve worked on as part of my learnin
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=axrorback&show_icons=true&theme=github_dark" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jahongircoder456&show_icons=true&theme=github_dark" height="150" />
 </p>
 
 ---
@@ -67,5 +67,5 @@ This GitHub profile contains the projects I’ve worked on as part of my learnin
 ---
 
 <p align="center">
-  Made with ❤️ by Ahrorjon Ibrohimjonov
+  Made with ❤️ by Jahongir Xaitbayev
 </p>
