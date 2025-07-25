@@ -1,71 +1,101 @@
-<h1 align="center">Hi there! 👋 I'm Jahongir Xaitbayev</h1>
+<div align="center">
+  <h1>Hi there! 👋 I'm Jahongir Xaitbayev</h1>
+  
+  <h3>🚀 Full-Stack Developer | Flask Specialist | Startup Founder</h3>
+  
+  <p>
+    <a href="https://github.com/Jahongircoder456?tab=followers">
+      <img alt="followers" src="https://img.shields.io/github/followers/Jahongircoder456?color=green&logo=github">
+    </a>
+    <a href="https://github.com/Jahongircoder456">
+      <img src="https://komarev.com/ghpvc/?username=Jahongircoder456" alt="profile views" />
+    </a>
+  </p>
+</div>
 
-<p align="center">
-  Startap founder<br/>
-  Growing person <br/>
-  Startup founder in uzbekistan.
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub!;I'm+a+Flask+Developer;I+build+real-world+web+apps" alt="Typing SVG">
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F72E&center=true&vCenter=true&width=440&lines=Building+scalable+web+applications;Flask+enthusiast;Startup+founder;Tech+innovator" alt="Typing SVG">
+</div>
 
 ---
 
-## 🛡️ Quick Info & Badges
+### 🛠️ Tech Stack
+
+<table width="100%">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48"/>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/flask-icon.svg" alt="Flask" width="48"/>
+      <br>Flask
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48"/>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/postgresql-icon.svg" alt="PostgreSQL" width="48"/>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48"/>
+      <br>GitHub
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML" width="48"/>
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS" width="48"/>
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/bootstrap-icon.svg" alt="Bootstrap" width="48"/>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="48"/>
+      <br>REST API
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48"/>
+      <br>Docker
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jahongircoder456&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jahongircoder456&layout=compact&langs_count=8&theme=dark"/>
+</div>
+
+---
+
+### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/axrorback">
-    <img src="https://img.shields.io/github/followers/axrorback?label=Follow&style=social" />
+  <a href="mailto:jahongiritdasturchi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="mailto:axrorback@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-green?style=flat&logo=gmail" />
+  <a href="https://t.me/profitlifeme">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
-  <a href="https://softwareuz.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-softwareuz.github.io-blue?style=flat-square&logo=githubpages" />
+  <a href="https://www.linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
-
-My name is Jahongir Xaitbayev, and I’m a passionate developer from Uzbekistan 🇺🇿. I’m currently pursuing a degree in Computer Science at **Acharya University**.
-
-I enjoy building real-world applications that solve problems in education, productivity, and everyday life. I'm highly interested in backend development and cloud storage systems, and I love using Python and Flask to bring ideas to life.
-
-This GitHub profile contains the projects I’ve worked on as part of my learning and practical experience. I aim to become a full-stack developer who creates tools that are clean, useful, and accessible.
-
-
-## 🛠️ My Tech Stack
-
-| Category       | Tools & Skills |
-|----------------|----------------|
-| 💻 Languages   | Python, JavaScript, HTML, CSS, SQL |
-| ⚙️ Frameworks  | Flask, Bootstrap, Jinja2 |
-| 🗄️ Databases   | PostgreSQL, Supabase |
-| 🧪 Tools       | Git, GitHub, Postman, VS Code |
-| 🌐 Other       | REST APIs, Responsive Design, Cloud Storage |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jahongircoder456&show_icons=true&theme=github_dark" height="150" />
-</p>
-
----
-
-## 📫 Contact Me
-
- 
-- 📧 Email: [jahongir@gmail.com](mailto:jahongiritdasturchi@gmail.com)  
-- 💬 Telegram: [@profitlifeme](https://t.me/profitlifeme) 
-
-
----
-
-<p align="center">
-  Made with ❤️ by Jahongir Xaitbayev
-</p>
+<div align="center">
+  <p>💻 Check out my projects below!</p>
+  <p>⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes</p>
+</div>
