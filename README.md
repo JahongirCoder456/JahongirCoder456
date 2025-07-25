@@ -1,101 +1,84 @@
 <div align="center">
-  <h1>Hi there! 👋 I'm Jahongir Xaitbayev</h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Jahongir%20Xaitbayev&fontSize=42&fontAlignY=35&animation=fadeIn" alt="Header"/>
   
-  <h3>🚀 Full-Stack Developer | Flask Specialist | Startup Founder</h3>
+  <h2>🚀 Full-Stack Developer | Flask Specialist | Startup Founder</h2>
   
-  <p>
+  <div>
     <a href="https://github.com/Jahongircoder456?tab=followers">
-      <img alt="followers" src="https://img.shields.io/github/followers/Jahongircoder456?color=green&logo=github">
+      <img alt="followers" src="https://img.shields.io/badge/Followers-{YOUR_FOLLOWERS}-brightgreen?style=for-the-badge&logo=github">
     </a>
     <a href="https://github.com/Jahongircoder456">
-      <img src="https://komarev.com/ghpvc/?username=Jahongircoder456" alt="profile views" />
+      <img src="https://img.shields.io/badge/Profile_Views-{YOUR_VIEWS}-blue?style=for-the-badge&logo=eyeem" alt="profile views" />
     </a>
-  </p>
+  </div>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F72E&center=true&vCenter=true&width=500&lines=Building+scalable+web+applications;Flask+enthusiast;Startup+founder;Tech+innovator;Open+source+contributor" alt="Typing SVG">
 </div>
+
+---
+
+### 🎨 Creative Tech Stack
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F72E&center=true&vCenter=true&width=440&lines=Building+scalable+web+applications;Flask+enthusiast;Startup+founder;Tech+innovator" alt="Typing SVG">
+  <img src="https://skillicons.dev/icons?i=python,flask,js,html,css,bootstrap,postgresql,git,github,docker,linux,vscode&perline=6" alt="Tech Stack"/>
 </div>
 
 ---
 
-### 🛠️ Tech Stack
-
-<table width="100%">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48"/>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/flask-icon.svg" alt="Flask" width="48"/>
-      <br>Flask
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48"/>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/postgresql-icon.svg" alt="PostgreSQL" width="48"/>
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48"/>
-      <br>GitHub
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML" width="48"/>
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS" width="48"/>
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/bootstrap-icon.svg" alt="Bootstrap" width="48"/>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="48"/>
-      <br>REST API
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48"/>
-      <br>Docker
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 GitHub Stats
+### 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jahongircoder456&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jahongircoder456&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jahongircoder456&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jahongircoder456&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jahongircoder456&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
 
-### 🌐 Connect With Me
+### 🏆 GitHub Trophies
 
-<p align="center">
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jahongircoder456&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+</div>
+
+---
+
+### 🌟 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/Jahongircoder456/{YOUR_PROJECT}">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jahongircoder456&repo={YOUR_PROJECT}&theme=radical&show_owner=true" alt="Project"/>
+  </a>
+  <a href="https://github.com/Jahongircoder456/{ANOTHER_PROJECT}">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jahongircoder456&repo={ANOTHER_PROJECT}&theme=radical&show_owner=true" alt="Project"/>
+  </a>
+</div>
+
+---
+
+### 🤝 Connect With Me
+
+<div align="center">
   <a href="mailto:jahongiritdasturchi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black">
   </a>
   <a href="https://t.me/profitlifeme">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=black">
   </a>
   <a href="https://www.linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black">
   </a>
-</p>
+  <a href="https://twitter.com/yourprofile">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=black">
+  </a>
+</div>
 
 ---
 
 <div align="center">
-  <p>💻 Check out my projects below!</p>
-  <p>⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes</p>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid={YOUR_SPOTIFY_ID}&cover_image=true&theme=novatorem" alt="Spotify"/>
+  
+  <p>⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes while coding!</p>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" alt="Footer"/>
 </div>
